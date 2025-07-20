@@ -1,0 +1,4 @@
+# Weather prediction using LSTM and XGBoost.
+This repository contains a robust and memory-efficient deep learning project for weather prediction, leveraging a hybrid model combining LSTM networks and XGBoost. The system is designed to handle large datasets by incorporating memory-safe processing techniques and parallel execution for different geographical regions.
+# project Overview
+The core idea behind this project is to build an accurate and scalable weather forecasting system. It addresses common challenges in training complex models on large time-series datasets, such as memory limitations and computational intensity. By integrating the temporal pattern recognition strengths of LSTMs with the tabular data prediction power of XGBoost, the model aims to capture both sequence-dependent features and intricate relationships within weather parameters.
